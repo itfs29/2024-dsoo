@@ -1,0 +1,40 @@
+
+Registrar cliente
+
+@startuml
+(Datos del cliente) -r-> (Registro): apellido
+(Datos del cliente) -r-> (Registro): nombre
+(Datos del cliente) -r-> (Registro): Tipo doc
+(Datos del cliente) -r-> (Registro): Numero doc
+(Datos del cliente) -r-> (Registro): Tipo Cliente (Socio/No socio)
+(Registro) -r-> (Registrar cliente)
+@enduml
+
+
+Emitir carnet
+@startuml
+(Datos del socio) -r-> (Emitir Carnet): Numero de socio
+(Emitir Carnet) -r-> (registrar fecha de emision)
+@enduml
+
+Cobrar cuota
+@startuml
+(Datos del socio) -r-> (Cobrar cuota): Numero de socio
+(Cobrar cuota) -r-> (Registrar pago)
+@enduml
+
+
+Cobrar actividad
+@startuml
+(Datos de la actividad) -r-> (Cobrar actividad): Numero de actividad
+(Datos del cliente) -r-> (Cobrar actividad): Tipo de documento
+(Datos del cliente) -r-> (Cobrar actividad): Numero de documento
+(Cobrar actividad) -r-> (Registrar cobro de actividad)
+@enduml
+
+Reporte de vencimientos
+
+
+@startuml
+(-) -r-> [Reporte de Inscripción]: Emitir reporte de vencimientos del dia
+@enduml
