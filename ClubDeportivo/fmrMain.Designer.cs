@@ -60,7 +60,7 @@
             button3.Name = "button3";
             button3.Size = new System.Drawing.Size(468, 43);
             button3.TabIndex = 2;
-            button3.Text = "Cobrar cuota";
+            button3.Text = "Cobrar";
             button3.UseVisualStyleBackColor = true;
             // 
             // button5

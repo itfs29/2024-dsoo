@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace ClubDeportivo
 {
-    public partial class frmEntregarCarnet : Form
+    public partial class frmCobrar : Form
     {
-        public frmEntregarCarnet()
+        public frmCobrar()
         {
             InitializeComponent();
         }

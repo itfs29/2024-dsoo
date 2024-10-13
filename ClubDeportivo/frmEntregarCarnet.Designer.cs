@@ -1,6 +1,8 @@
-﻿namespace ClubDeportivo
+﻿using System.Windows.Forms;
+
+namespace ClubDeportivo
 {
-    partial class frmEntregarCarnet
+    partial class frmEntregarCarnet : Form
     {
         /// <summary>
         /// Required designer variable.
@@ -102,8 +104,6 @@
             ResumeLayout(false);
             PerformLayout();
         }
-
-        #endregion
 
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label4;
