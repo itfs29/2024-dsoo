@@ -1,7 +1,0 @@
-
-hay que hacer
-	Bocetos de la interface
-	Analizar y documentar la fase previa y funcional del sistema de la cursada.
-
-
-
