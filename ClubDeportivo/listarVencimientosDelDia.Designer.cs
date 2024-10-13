@@ -34,6 +34,7 @@
             NumeroDocumento = new System.Windows.Forms.DataGridViewTextBoxColumn();
             Apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
             Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -46,7 +47,6 @@
             dataGridView1.RowTemplate.Height = 25;
             dataGridView1.Size = new System.Drawing.Size(1141, 618);
             dataGridView1.TabIndex = 0;
-            dataGridView1.CellContentClick += this.dataGridView1_CellContentClick;
             // 
             // NumeroSocio
             // 
@@ -78,11 +78,21 @@
             Nombre.Name = "Nombre";
             Nombre.Width = 200;
             // 
+            // button1
+            // 
+            button1.Location = new System.Drawing.Point(361, 661);
+            button1.Name = "button1";
+            button1.Size = new System.Drawing.Size(553, 48);
+            button1.TabIndex = 1;
+            button1.Text = "Salir";
+            button1.UseVisualStyleBackColor = true;
+            // 
             // listarVencimientosDelDia
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1265, 721);
+            Controls.Add(button1);
             Controls.Add(dataGridView1);
             Name = "listarVencimientosDelDia";
             Text = "Form1";
@@ -98,5 +108,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn NumeroDocumento;
         private System.Windows.Forms.DataGridViewTextBoxColumn Apellido;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
+        private System.Windows.Forms.Button button1;
     }
 }

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\fmrmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:fmrmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\frmcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmcobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\frmentregarcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmentregarcarnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\frmentregarcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmentregarcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,50 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "fmrMain.cs [Dise\u00F1o]",
-              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\fmrMain.cs",
-              "RelativeDocumentMoniker": "fmrMain.cs",
-              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\fmrMain.cs [Dise\u00F1o]",
-              "RelativeToolTip": "fmrMain.cs [Dise\u00F1o]",
+              "Title": "listarVencimientosDelDia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\listarVencimientosDelDia.cs",
+              "RelativeDocumentMoniker": "listarVencimientosDelDia.cs",
+              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\listarVencimientosDelDia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "listarVencimientosDelDia.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:09:06.602Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmEntregarCarnet.cs [Dise\u00F1o]",
-              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmEntregarCarnet.cs",
-              "RelativeDocumentMoniker": "frmEntregarCarnet.cs",
-              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmEntregarCarnet.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmEntregarCarnet.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:06:31.404Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmEntregarCarnet.Designer.cs",
-              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmEntregarCarnet.Designer.cs",
-              "RelativeDocumentMoniker": "frmEntregarCarnet.Designer.cs",
-              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmEntregarCarnet.Designer.cs",
-              "RelativeToolTip": "frmEntregarCarnet.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:06:29.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmCobrar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmCobrar.cs",
-              "RelativeDocumentMoniker": "frmCobrar.cs",
-              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\frmCobrar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "frmCobrar.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:06:00.444Z",
+              "WhenOpened": "2024-10-13T15:44:51.144Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
