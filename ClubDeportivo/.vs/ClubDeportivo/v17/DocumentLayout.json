@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\",
+  "WorkspaceRootPath": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|c:\\users\\mpereira\\documents\\terciario\\2024-2do-cuatrimestre\\programacion-orientada-a-objetos\\tpi\\clubdeportivo\\listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,19 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "listarVencimientosDelDia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\listarVencimientosDelDia.cs",
+              "Title": "frmRegistrar.cs [Design]",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
+              "RelativeDocumentMoniker": "frmRegistrar.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs [Design]",
+              "RelativeToolTip": "frmRegistrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:55:59.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClubDeportivo",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
+              "RelativeDocumentMoniker": "ClubDeportivo.csproj",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
+              "RelativeToolTip": "ClubDeportivo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T15:52:54.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "listarVencimientosDelDia.cs [Design]",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarVencimientosDelDia.cs",
               "RelativeDocumentMoniker": "listarVencimientosDelDia.cs",
-              "ToolTip": "c:\\Users\\mpereira\\Documents\\terciario\\2024-2do-cuatrimestre\\Programacion-orientada-a-objetos\\tpi\\ClubDeportivo\\listarVencimientosDelDia.cs [Dise\u00F1o]",
-              "RelativeToolTip": "listarVencimientosDelDia.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarVencimientosDelDia.cs [Design]",
+              "RelativeToolTip": "listarVencimientosDelDia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T15:44:51.144Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
