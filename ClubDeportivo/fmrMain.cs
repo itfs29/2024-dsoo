@@ -19,7 +19,8 @@ namespace ClubDeportivo
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Form form = new frmRegistrar();
+            form.ShowDialog();
         }
 
         private void button2_Click(object sender, EventArgs e)

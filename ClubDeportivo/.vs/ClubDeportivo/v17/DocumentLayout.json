@@ -3,15 +3,79 @@
   "WorkspaceRootPath": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmregistrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\datos\\servicioconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:datos\\servicioconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\entidades\\e_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:entidades\\e_persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\entidades\\e_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:entidades\\e_socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\entidades\\e_nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:entidades\\e_nosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\datos\\serviciosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:datos\\serviciosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\datos\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:datos\\serviciousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\util\\excepciongeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:util\\excepciongeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\datos\\servicionosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:datos\\servicionosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\fmrmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:fmrmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\entidades\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:entidades\\e_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmentregarcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmentregarcarnet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:listarvencimientosdeldia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +94,234 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegistrar.Designer.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.Designer.cs",
+              "RelativeDocumentMoniker": "frmRegistrar.Designer.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.Designer.cs",
+              "RelativeToolTip": "frmRegistrar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:32:02.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExcepcionGeneral.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Util\\ExcepcionGeneral.cs",
+              "RelativeDocumentMoniker": "Util\\ExcepcionGeneral.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Util\\ExcepcionGeneral.cs",
+              "RelativeToolTip": "Util\\ExcepcionGeneral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:06:07.937Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmRegistrar.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
+              "RelativeDocumentMoniker": "frmRegistrar.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
+              "RelativeToolTip": "frmRegistrar.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAEwFgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:31:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicioConexion.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioConexion.cs",
+              "RelativeDocumentMoniker": "Datos\\ServicioConexion.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioConexion.cs",
+              "RelativeToolTip": "Datos\\ServicioConexion.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA8wEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:23:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E_Persona.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Persona.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_Persona.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Persona.cs",
+              "RelativeToolTip": "Entidades\\E_Persona.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:32:40.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicioUsuario.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioUsuario.cs",
+              "RelativeDocumentMoniker": "Datos\\ServicioUsuario.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioUsuario.cs",
+              "RelativeToolTip": "Datos\\ServicioUsuario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:16:22.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:09:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "E_NoSocio.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_NoSocio.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_NoSocio.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_NoSocio.cs",
+              "RelativeToolTip": "Entidades\\E_NoSocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:35:44.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "E_Socio.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Socio.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_Socio.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Socio.cs",
+              "RelativeToolTip": "Entidades\\E_Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:10:42.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicioSocio.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioSocio.cs",
+              "RelativeDocumentMoniker": "Datos\\ServicioSocio.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioSocio.cs",
+              "RelativeToolTip": "Datos\\ServicioSocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:50:59.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frmLogin.Designer.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.Designer.cs",
+              "RelativeToolTip": "frmLogin.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:15:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicioNoSocio.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioNoSocio.cs",
+              "RelativeDocumentMoniker": "Datos\\ServicioNoSocio.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioNoSocio.cs",
+              "RelativeToolTip": "Datos\\ServicioNoSocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:51:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:27:37.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fmrMain.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\fmrMain.cs",
+              "RelativeDocumentMoniker": "fmrMain.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\fmrMain.cs",
+              "RelativeToolTip": "fmrMain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:15:58.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "E_Usuario.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Usuario.cs",
+              "RelativeDocumentMoniker": "Entidades\\E_Usuario.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Usuario.cs",
+              "RelativeToolTip": "Entidades\\E_Usuario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:32:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmEntregarCarnet.Designer.cs",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmEntregarCarnet.Designer.cs",
+              "RelativeDocumentMoniker": "frmEntregarCarnet.Designer.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmEntregarCarnet.Designer.cs",
+              "RelativeToolTip": "frmEntregarCarnet.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:59:50.858Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmRegistrar.cs [Design]",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
               "RelativeDocumentMoniker": "frmRegistrar.cs",
               "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs [Design]",
               "RelativeToolTip": "frmRegistrar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:55:59.424Z",
+              "WhenOpened": "2024-10-13T17:13:14.891Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClubDeportivo",
-              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
-              "RelativeDocumentMoniker": "ClubDeportivo.csproj",
-              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
-              "RelativeToolTip": "ClubDeportivo.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T15:52:54.28Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:09:14.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "listarVencimientosDelDia.cs [Design]",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarVencimientosDelDia.cs",
               "RelativeDocumentMoniker": "listarVencimientosDelDia.cs",
               "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarVencimientosDelDia.cs [Design]",
               "RelativeToolTip": "listarVencimientosDelDia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:44:51.144Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-13T15:44:51.144Z"
             }
           ]
         }
