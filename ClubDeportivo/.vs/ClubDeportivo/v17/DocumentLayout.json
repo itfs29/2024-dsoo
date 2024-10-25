@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:clubdeportivo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|d:\\terciario\\segundo cuatri\\objetos\\integrador\\2024-dsoo\\clubdeportivo\\frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FE3EFF9-0A8B-4DDE-B784-28D516CF496B}|ClubDeportivo.csproj|solutionrelative:frmregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +98,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ClubDeportivo",
+              "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
+              "RelativeDocumentMoniker": "ClubDeportivo.csproj",
+              "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\ClubDeportivo.csproj",
+              "RelativeToolTip": "ClubDeportivo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T12:01:18.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmRegistrar.Designer.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.Designer.cs",
               "RelativeDocumentMoniker": "frmRegistrar.Designer.cs",
@@ -106,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ExcepcionGeneral.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Util\\ExcepcionGeneral.cs",
               "RelativeDocumentMoniker": "Util\\ExcepcionGeneral.cs",
@@ -118,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmRegistrar.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
               "RelativeDocumentMoniker": "frmRegistrar.cs",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServicioConexion.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioConexion.cs",
               "RelativeDocumentMoniker": "Datos\\ServicioConexion.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "E_Persona.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Persona.cs",
               "RelativeDocumentMoniker": "Entidades\\E_Persona.cs",
@@ -155,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ServicioUsuario.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioUsuario.cs",
               "RelativeDocumentMoniker": "Datos\\ServicioUsuario.cs",
@@ -167,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -175,11 +191,12 @@
               "RelativeToolTip": "frmLogin.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAawDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T20:09:23.719Z"
+              "WhenOpened": "2024-10-13T20:09:23.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "E_NoSocio.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_NoSocio.cs",
               "RelativeDocumentMoniker": "Entidades\\E_NoSocio.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "E_Socio.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Socio.cs",
               "RelativeDocumentMoniker": "Entidades\\E_Socio.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ServicioSocio.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioSocio.cs",
               "RelativeDocumentMoniker": "Datos\\ServicioSocio.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "frmLogin.Designer.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.Designer.cs",
               "RelativeDocumentMoniker": "frmLogin.Designer.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ServicioNoSocio.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Datos\\ServicioNoSocio.cs",
               "RelativeDocumentMoniker": "Datos\\ServicioNoSocio.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -251,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "fmrMain.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\fmrMain.cs",
               "RelativeDocumentMoniker": "fmrMain.cs",
@@ -263,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "E_Usuario.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\Entidades\\E_Usuario.cs",
               "RelativeDocumentMoniker": "Entidades\\E_Usuario.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmEntregarCarnet.Designer.cs",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmEntregarCarnet.Designer.cs",
               "RelativeDocumentMoniker": "frmEntregarCarnet.Designer.cs",
@@ -291,19 +308,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmRegistrar.cs [Design]",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs",
               "RelativeDocumentMoniker": "frmRegistrar.cs",
               "ToolTip": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmRegistrar.cs [Design]",
               "RelativeToolTip": "frmRegistrar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:13:14.891Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-13T17:13:14.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -314,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "listarVencimientosDelDia.cs [Design]",
               "DocumentMoniker": "D:\\Terciario\\Segundo Cuatri\\Objetos\\integrador\\2024-dsoo\\ClubDeportivo\\listarVencimientosDelDia.cs",
               "RelativeDocumentMoniker": "listarVencimientosDelDia.cs",
